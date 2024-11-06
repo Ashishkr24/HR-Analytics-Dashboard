@@ -41,9 +41,6 @@ The analysis presented in this dashboard will empower Atliq Technologies to make
 
 Feel free to explore the dashboard and leverage the insights for HR planning and decision-making.
 
-**Acknowledgments**
-
-Special thanks to Codebasics team for the valuable tutorials and guidance during the development of this project. You can find the tutorials here(https://www.youtube.com/watch?v=ru1qeDO_qrc&list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM).
 
 
 
